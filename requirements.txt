@@ -1,0 +1,11 @@
+Pillow
+tensorflow
+h5py
+numpy
+pika
+streamlit
+opencv-python
+matplotlib
+python-multipart
+Flask
+Flask-Cors

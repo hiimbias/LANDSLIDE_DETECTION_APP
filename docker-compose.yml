@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  app:
+    image: landslide_detection_app:latest
+    container_name: landslide_app
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+
