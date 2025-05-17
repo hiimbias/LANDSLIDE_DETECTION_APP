@@ -12,7 +12,7 @@ Dự án được triển khai trên Docker
 ## 🖥️ Cài Đặt  
 Hướng dẫn cách cài đặt dự án.
 ```sh
-git clone https://github.com/username/repository.git
+git clone [https://github.com/username/repository.git](https://github.com/hiimbias/LANDSLIDE_DETECTION_APP.git)
 # Mở ứng dụng Docker Desktop
 docker build -t landslide_detection_app .
 docker-compose up 
